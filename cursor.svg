@@ -1,9 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
   <style>
+    .bg { fill: #ffffff; }
     .text { fill: #000000; }
     @media (prefers-color-scheme: dark) {
+      .bg { fill: #000000; }
       .text { fill: #FFFFFF; }
     }
   </style>
+  <rect width="200" height="60" class="bg" />
   <text x="0" y="38" font-family="monospace" font-size="24" class="text">$ <tspan><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.4;0.5;1" dur="1s" repeatCount="indefinite"/>█</tspan></text>
 </svg>
