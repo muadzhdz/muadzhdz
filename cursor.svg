@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="30" viewBox="0 0 60 30">
+  <text x="0" y="22" font-family="monospace" font-size="18" fill="#FFFFFF">$</text>
+  <rect x="14" y="4" width="8" height="18" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
