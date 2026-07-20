@@ -1,3 +1,3 @@
-<a href="https://raw.githubusercontent.com/muadzhdz/muadzhdz/239d238/cursor.svg">
-  <img src="https://raw.githubusercontent.com/muadzhdz/muadzhdz/239d238/cursor.svg" />
+<a href="https://raw.githubusercontent.com/muadzhdz/muadzhdz/a005d65/cursor.svg">
+  <img src="https://raw.githubusercontent.com/muadzhdz/muadzhdz/a005d65/cursor.svg" />
 </a>
