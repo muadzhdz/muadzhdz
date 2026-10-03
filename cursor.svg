@@ -28,20 +28,20 @@
     }
   </style>
 
-  <!-- Line 1: Linux Enthusiast -->
+  <!-- Line 1: Full-Stack Web Developer -->
   <path id='path0'>
-    <animate id='d0' attributeName='d' begin='0s;d2.end'
+    <animate id='d0' attributeName='d' begin='0s;d1.end'
       dur='5500ms' fill='remove'
       values='m0,32 h0 ; m0,32 h450 ; m0,32 h450 ; m0,32 h0'
       keyTimes='0; 0.55; 0.85; 1' />
   </path>
   <text class='text text-content' x='0' text-anchor='start'>
     <textPath xlink:href='#path0'>
-      <tspan class='prompt'>$ </tspan>Linux Enthusiast <tspan class='cursor'><animate attributeName='opacity' values='1;1;0;0' keyTimes='0;0.5;0.51;1' dur='0.8s' repeatCount='indefinite'/>█</tspan>
+      <tspan class='prompt'>$ </tspan>Full-Stack Web Developer <tspan class='cursor'><animate attributeName='opacity' values='1;1;0;0' keyTimes='0;0.5;0.51;1' dur='0.8s' repeatCount='indefinite'/>█</tspan>
     </textPath>
   </text>
 
-  <!-- Line 2: Network Enthusiast -->
+  <!-- Line 2: Linux Enthusiast -->
   <path id='path1'>
     <animate id='d1' attributeName='d' begin='d0.end'
       dur='5500ms' fill='remove'
@@ -50,20 +50,7 @@
   </path>
   <text class='text text-content' x='0' text-anchor='start'>
     <textPath xlink:href='#path1'>
-      <tspan class='prompt'>$ </tspan>Network Enthusiast <tspan class='cursor'><animate attributeName='opacity' values='1;1;0;0' keyTimes='0;0.5;0.51;1' dur='0.8s' repeatCount='indefinite'/>█</tspan>
-    </textPath>
-  </text>
-
-  <!-- Line 3: Full-Stack Developer -->
-  <path id='path2'>
-    <animate id='d2' attributeName='d' begin='d1.end'
-      dur='5500ms' fill='remove'
-      values='m0,32 h0 ; m0,32 h450 ; m0,32 h450 ; m0,32 h0'
-      keyTimes='0; 0.55; 0.85; 1' />
-  </path>
-  <text class='text text-content' x='0' text-anchor='start'>
-    <textPath xlink:href='#path2'>
-      <tspan class='prompt'>$ </tspan>Full-Stack Developer <tspan class='cursor'><animate attributeName='opacity' values='1;1;0;0' keyTimes='0;0.5;0.51;1' dur='0.8s' repeatCount='indefinite'/>█</tspan>
+      <tspan class='prompt'>$ </tspan>Linux Enthusiast <tspan class='cursor'><animate attributeName='opacity' values='1;1;0;0' keyTimes='0;0.5;0.51;1' dur='0.8s' repeatCount='indefinite'/>█</tspan>
     </textPath>
   </text>
 </svg>
